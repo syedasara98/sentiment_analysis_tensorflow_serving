@@ -1,2 +1,2 @@
 # sentiment_analysis_tensorflow_serving
-Sentiment Analysis model serving using Tensorflow
+Credits: https://towardsdatascience.com/deploying-a-text-classifier-with-tensorflow-serving-docker-in-2-0-cba6851e46ed
